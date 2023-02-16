@@ -1,4 +1,4 @@
-# ECE310_UIUC_FA22
+# ECE311_FA22_UIUC
 ## The files are uploaded to be a referance and additional materials for learning of ECE310 digital signal processing taught by UIUC professor Corey Snyder. Anything that the downloaders of those files do which violates UIUC Academic Intergrity should be responsibility of the downloaders themselves, If some issues related to academic intergrity did happen, I will do my best cooperating with UIUC.
 ## Again, Those programs are not 100% correct, those are just referances and supplementary materials of this course.
 
